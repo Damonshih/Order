@@ -1,0 +1,12 @@
+
+{
+  "resourceType": "Basic",
+  "id": "101",
+  "code": { "text": "餅乾" },
+  "extension": [
+    {
+      "url": "http://example.org/fhir/StructureDefinition/product-price",
+      "valueMoney": { "value": 50, "currency": "TWD" }
+    }
+  ]
+}

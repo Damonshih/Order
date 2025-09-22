@@ -1,0 +1,4 @@
+
+OrderID,CustomerID,OrderDate,OrderStatus,PaymentMethod,ShippingMethod,TotalAmount
+O1001,C001,2025-09-21,已付款,信用卡,宅配,260
+O1002,C002,2025-09-21,待付款,貨到付款,自取,160

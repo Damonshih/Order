@@ -1,0 +1,10 @@
+
+{
+  "resourceType": "Person",
+  "id": "1",
+  "name": [{ "text": "王小明" }],
+  "telecom": [
+    { "system": "email", "value": "ming@example.com" },
+    { "system": "phone", "value": "0912345678" }
+  ]
+}

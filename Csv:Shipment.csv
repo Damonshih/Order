@@ -1,0 +1,4 @@
+
+ShipmentID,OrderID,LogisticsCompany,TrackingNumber,ShipDate,DeliveryDate,Status
+S001,O1001,黑貓宅急便,TRK111222,2025-09-22,2025-09-23,運送中
+S002,O1002,,,,,未出貨

@@ -1,0 +1,4 @@
+
+PaymentID,OrderID,PaymentDate,PaymentAmount,PaymentStatus,TransactionCode
+PMT001,O1001,2025-09-21,260,已付款,TX123456
+PMT002,O1002,,0,待付款,

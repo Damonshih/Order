@@ -1,0 +1,5 @@
+
+ProductID,ProductName,Specification,UnitPrice,StockQty
+P001,蘋果,紅色/1斤,100,50
+P002,香蕉,黃熟/1斤,60,80
+P003,牛奶,1公升裝,80,30

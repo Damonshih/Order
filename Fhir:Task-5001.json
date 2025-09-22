@@ -1,0 +1,30 @@
+
+{
+  "resourceType": "Task",
+  "id": "5001",
+  "status": "requested",
+  "for": { "reference": "Person/1" },
+  "authoredOn": "2025-09-21",
+  "input": [
+    {
+      "type": { "text": "Product" },
+      "valueReference": { "reference": "Basic/101" },
+      "extension": [
+        {
+          "url": "http://example.org/fhir/StructureDefinition/quantity",
+          "valueInteger": 2
+        }
+      ]
+    },
+    {
+      "type": { "text": "Product" },
+      "valueReference": { "reference": "Basic/102" },
+      "extension": [
+        {
+          "url": "http://example.org/fhir/StructureDefinition/quantity",
+          "valueInteger": 3
+        }
+      ]
+    }
+  ]
+}
